@@ -1,1 +1,4 @@
-# The-New-Legacy
+# The New Legacy - RPG Game
+### Info
+
+### Download
